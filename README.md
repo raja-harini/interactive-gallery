@@ -2,7 +2,7 @@
 ## Date: 12-11-2024
 
 ## AIM:
-To design a book front cover page using HTML and CSS.
+To design a interactive gallery page using HTML, CSS and JS.
 
 ## DESIGN STEPS:
 Step 1:
