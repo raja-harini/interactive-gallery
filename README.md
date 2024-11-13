@@ -137,4 +137,4 @@ https://raja-harini.github.io/interactive-gallery/
 ![alt text](OP.png)
 
 ## RESULT:
-The program for designing book front cover page using HTML and CSS is completed successfully.
+The program for designing interactive gallery using HTML, CSS and JAVASCRIPT is completed successfully.
